@@ -1,6 +1,8 @@
 # [StarFighters_Release](https://github.com/abrarShariar/StarFighters_Release/archive/master.zip)
 STAR FIGHTERS release version . Built on SFML (C++) 
 
+**Unpack and run main.exe. Play at your own risk !!**
+
 Basic Game Instructions: 
 
 *-Press "Space" to launch missile*
