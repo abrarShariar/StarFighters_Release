@@ -3,6 +3,8 @@ STAR FIGHTERS release version . Built on SFML (C++)
 
 [Download and Play](https://github.com/abrarShariar/StarFighters_Release/archive/master.zip)
 
+Check out the [source code](https://github.com/abrarShariar/Star_Fighters) of this game
+
 **Unpack and run main.exe. Play at your own risk !!**
 
 Basic Game Instructions: 
